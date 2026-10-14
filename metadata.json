@@ -1,0 +1,6 @@
+{
+  "name": "LYCAN Garments | Premium T-Shirt Manufacturing",
+  "description": "Professional garment manufacturer specializing in heavyweight 100% cotton, drop shoulder oversized tees, dry-fit activewear, custom sublimation, and DTF printing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
